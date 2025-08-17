@@ -1,15 +1,13 @@
-![MasterHead](https://github.com/IliyaAG/IliyaAG/assets/123404209/642ebdb2-04df-4690-a379-f593e72d9fed)
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm ILiya Aghchaei</h1>
-<h3 align="center">Linux administrator and devops engineer from iran</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWwLWzemqRNNjPeayaIBfKqNRWJRVh4lqJ0Wf7pD3Kx1Lymfpvvk1sgqdjBzrErfx-Sw&usqp=CAU">
+<h3 align="center">Linux administrator and DevOps engineer </h3>
+<img align="right" alt="coding" width="400" src="https://en crypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWwLWzemqRNNjPeayaIBfKqNRWJRVh4lqJ0Wf7pD3Kx1Lymfpvvk1sgqdjBzrErfx-Sw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliyaAG&label=Profile%20views&color=0e75b6&style=flat" alt="iliyaAG" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iliyaAG" alt="iliyaAG" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [zabbix-installer](https://github.com/IliyaAG/zabbix-installer)
+- 🔭 I’m currently working on [NexusCLI](https://github.com/IliyaAG/NexusCLI)
 
 - 🌱 I’m currently learning **Devops and its tools**
 
@@ -17,7 +15,7 @@
 
 - 🤝 I’m looking for help with [zabbix-installer](https://github.com/IliyaAG/zabbix-installer)
 
-- 📝 I regularly write articles on [https://doc-dooni.xyz](https://doc-dooni.xyz)
+- 📝 I regularly write articles on [https://doc-dooni.xyz]()
 
 - 💬 Ask me about **Linux and unix like operating systems**
 
@@ -38,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliyaAG&show_icons=true&locale=en" alt="iliyaAG" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iliyaAG&" alt="iliyaAG" /></p>
+
