@@ -1,6 +1,6 @@
+[![MasterHead](images/about-me.jpg)
 <details> 
   <summary><h2>About Me</h2></summary>
-[![MasterHead](images/about-me.jpg)
 <h1 align="center">Hi 👋, I'm ILiya Aghchaei</h1>
 <h3 align="center">Linux administrator and DevOps engineer </h3>
 <img align="right" alt="coding" width="400" src="https://en crypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWwLWzemqRNNjPeayaIBfKqNRWJRVh4lqJ0Wf7pD3Kx1Lymfpvvk1sgqdjBzrErfx-Sw&usqp=CAU">
@@ -39,20 +39,40 @@
   <h3>🐧 Operating System</h3>
 
   <p>
-      <a href="https://www.linux.org/"><img alt="TUX" src="images/logos/tux.png"></a>
+      <a href="https://www.linux.org/"><img alt="TUX" src="images/logos/tux.png" width="40" height="40"> </a>
   </p>
   <h3>💻 Programming Languages & Tools</h3>
   <p>
-      <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="images/logos/Bash.png"></a>
-      <a href=https://golang.org/"><img alt="Golang" src="images/logos/golang.png"></a>
-      <a href="#"><img alt="git" src="images/logos/git.png"></a>
-      <a href="#"><img alt="vim" src="images/logos/vim.png"></a>
+      <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="images/logos/Bash.png" width="40" height="40"> </a>
+      <a href=https://golang.org/"><img alt="Golang" src="images/logos/golang.png" width="40" height="40" > </a>
+      <a href="#"><img alt="git" src="images/logos/git.png" width="40" height="40" > </a>
+      <a href="#"><img alt="vim" src="images/logos/vim.png" width="40" height="40" > </a>
   </p>
   <h3>☸️ Containerization & Orchestration</h3>
   <p>
+
+      <a href="#"><img alt="Docker" src="images/logos/docker.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="K8s" src="images/logos/kubernetes.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="helm" src="images/logos/helm.png" width="40" height="40"> </a>
   </p>
 
   <h3>🔄 CI/CD & DevOps Tools</h3>
+
+      <a href="#"><img alt="Gitlab" src="images/logos/gitlab.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="jenkins" src="images/logos/jenkins.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="ArgoCD" src="images/logos/argocd.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Ansible" src="images/logos/ansible.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Terraform" src="images/logos/terraform.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Harbor" src="images/logos/harbor.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Nexus" src="images/logos/nexus.png" width="40" height="40"> </a>
 
   <p>
   </p>
@@ -60,14 +80,46 @@
   <h3>📊 Monitoring & Observability</h3>
 
   <p>
+      <a href="#"><img alt="Prometheus" src="images/logos/prometheus.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Grafana" src="images/logos/grafana.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Tempo" src="images/logos/tempo.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Mimir" src="images/logos/mimir.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Zabbix" src="images/logos/zabbix.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Loki" src="images/logos/loki.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Elasticsearch" src="images/logos/elastic.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Logstash" src="images/logos/logstash.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Kibana" src="images/logos/kibana.png" width="40" height="40"> </a>
+
   </p>
   <h3>🌐 Web Servers, Load Balancers & Services</h3>
+
+      <a href="#"><img alt="Apache" src="images/logos/apache.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Nginx" src="images/logos/nginx.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Traefik" src="images/logos/traefik.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="HAProxy" src="images/logos/haproxy.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Keepalived" src="images/logos/keepalived.png" width="40" height="40"> </a>
 
   <p>
   </p>
   <h3>💾 Storage & Object Storage</h3>
 
   <p>
+      <a href="#"><img alt="Minio" src="images/logos/minio.png" width="40" height="40"> </a>
+
+      <a href="#"><img alt="Ceph" src="images/logos/ceph.png" width="40" height="40"> </a>
+
   </p>
   <h3>🗄 Databases</h3>
 
@@ -93,7 +145,7 @@
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=IliyaAG&theme=react&border=61dafb" alt="IliyaAG" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=IliyaAG&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=IliyaAG&show_icons=true&theme=react&border_color=61dafb" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -104,7 +156,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IliyaAG&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IliyaAG&theme=react-dark&bg_color=20232a" width="100%"/>
 </p>
 
 <hr>
@@ -115,5 +167,8 @@
   <a align="left" href="https://github.com/IliyaAG/NexusCLI" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=NexusCLI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/IliyaAG/ansible" title="My Ansible Template Files"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=ansible&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 </details>
+<br/><br/><br/><br/><br/><br/>
