@@ -1,4 +1,4 @@
-[![MasterHead](images/about-me.jpg)
+![MasterHead](images/about-me.jpg)
 <details> 
   <summary><h2>About Me</h2></summary>
 <h1 align="center">Hi 👋, I'm ILiya Aghchaei</h1>
@@ -34,10 +34,8 @@
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>🐧 Operating System</h3>
-
   <p>
       <a href="https://www.linux.org/"><img alt="TUX" src="images/logos/tux.png" width="40" height="40"> </a>
   </p>
@@ -50,79 +48,46 @@
   </p>
   <h3>☸️ Containerization & Orchestration</h3>
   <p>
-
       <a href="#"><img alt="Docker" src="images/logos/docker.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="K8s" src="images/logos/kubernetes.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="helm" src="images/logos/helm.png" width="40" height="40"> </a>
   </p>
-
   <h3>🔄 CI/CD & DevOps Tools</h3>
-
-      <a href="#"><img alt="Gitlab" src="images/logos/gitlab.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="jenkins" src="images/logos/jenkins.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="ArgoCD" src="images/logos/argocd.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="Ansible" src="images/logos/ansible.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="Terraform" src="images/logos/terraform.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="Harbor" src="images/logos/harbor.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="Nexus" src="images/logos/nexus.png" width="40" height="40"> </a>
-
   <p>
+      <a href="#"><img alt="Gitlab" src="images/logos/gitlab.png" width="40" height="40"> </a>
+      <a href="#"><img alt="jenkins" src="images/logos/jenkins.png" width="40" height="40"> </a>
+      <a href="#"><img alt="ArgoCD" src="images/logos/argocd.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Ansible" src="images/logos/ansible.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Terraform" src="images/logos/terraform.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Harbor" src="images/logos/harbor.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Nexus" src="images/logos/nexus.png" width="40" height="40"> </a>
   </p>
-
   <h3>📊 Monitoring & Observability</h3>
-
   <p>
       <a href="#"><img alt="Prometheus" src="images/logos/prometheus.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="Grafana" src="images/logos/grafana.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="Tempo" src="images/logos/tempo.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="Mimir" src="images/logos/mimir.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="Zabbix" src="images/logos/zabbix.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="Loki" src="images/logos/loki.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="Elasticsearch" src="images/logos/elastic.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="Logstash" src="images/logos/logstash.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="Kibana" src="images/logos/kibana.png" width="40" height="40"> </a>
-
   </p>
   <h3>🌐 Web Servers, Load Balancers & Services</h3>
-
-      <a href="#"><img alt="Apache" src="images/logos/apache.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="Nginx" src="images/logos/nginx.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="Traefik" src="images/logos/traefik.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="HAProxy" src="images/logos/haproxy.png" width="40" height="40"> </a>
-
-      <a href="#"><img alt="Keepalived" src="images/logos/keepalived.png" width="40" height="40"> </a>
-
   <p>
+      <a href="#"><img alt="Apache" src="images/logos/apache.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Nginx" src="images/logos/nginx.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Traefik" src="images/logos/traefik.png" width="40" height="40"> </a>
+      <a href="#"><img alt="HAProxy" src="images/logos/haproxy.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Keepalived" src="images/logos/keepalived.png" width="40" height="40"> </a>
   </p>
   <h3>💾 Storage & Object Storage</h3>
-
   <p>
       <a href="#"><img alt="Minio" src="images/logos/minio.png" width="40" height="40"> </a>
-
       <a href="#"><img alt="Ceph" src="images/logos/ceph.png" width="40" height="40"> </a>
-
   </p>
   <h3>🗄 Databases</h3>
-
   <p>
   </p>
   <h3>🧪 Performance & Security Testing</h3>
