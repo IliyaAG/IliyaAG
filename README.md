@@ -26,9 +26,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iliya-aghchaei" target="blank"><img align="center" src="images/logos/linkedin.png" alt="iliya-aghchaei" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22898422" target="blank"><img align="center" src="images/logos/stackoverflow.png" alt="StackOverFlow" height="30" width="40" /></a>
-<a href="https://instagram.com/shaki_one" target="blank"><img align="center" src="images/logos/instagram.png" alt="shaki_one" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iliya-aghchaei" target="blank"><img align="center" src="images/logos/linkedin.png" alt="iliya-aghchaei" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/22898422" target="blank"><img align="center" src="images/logos/stackoverflow.png" alt="StackOverFlow" height="40" width="40" /></a>
+<a href="https://instagram.com/shaki_one" target="blank"><img align="center" src="images/logos/instagram.png" alt="shaki_one" height="40" width="40" /></a>
 </p>
 </details>
 
@@ -37,7 +37,7 @@
 
   <h3>🐧 Operating System</h3>
   <p>
-      <a href="https://www.linux.org/"><img alt="TUX" src="images/logos/tux.png" width="40" height="40"> </a>
+      <a href="https://www.linux.org/"><img alt="TUX" src="images/logos/tux.png" width="50" height="50"> </a>
   </p>
   <h3>💻 Programming Languages & Tools</h3>
   <p>
@@ -91,7 +91,7 @@
   <h3>🗄 Databases</h3>
       <a href="#"><img alt="MySQL" src="images/logos/mysql.png" width="40" height="40"> </a>
       <a href="#"><img alt="MariaDB" src="images/logos/mariadb.png" width="40" height="40"> </a>
-      <a href="#"><img alt="MongoDB" src="images/logos/mongo.png" width="40" height="40"> </a>
+      <a href="#"><img alt="MongoDB" src="images/logos/mongodb.png" width="40" height="40"> </a>
       <a href="#"><img alt="Redis" src="images/logos/redis.png" width="40" height="40"> </a>
       <a href="#"><img alt="MSSQL" src="images/logos/MSSQLserver.png" width="40" height="40"> </a>
       <a href="#"><img alt="InfluxDB" src="images/logos/influxdb.png" width="40" height="40"> </a>
