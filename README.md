@@ -1,13 +1,14 @@
 ![MasterHead](images/about-me.jpg)
 <details> 
-  <summary><h2>About Me</h2></summary>
-<h1 align="center">Hi 👋, I'm ILiya Aghchaei</h1>
+  <summary><h1>About Me</h2></summary>
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Iliya+Aghchaei....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">Linux administrator and DevOps engineer </h3>
-<img align="right" alt="coding" width="400" src="https://en crypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWwLWzemqRNNjPeayaIBfKqNRWJRVh4lqJ0Wf7pD3Kx1Lymfpvvk1sgqdjBzrErfx-Sw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliyaAG&label=Profile%20views&color=0e75b6&style=flat" alt="iliyaAG" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iliyaAG" alt="iliyaAG" /></a> </p>
 
 - 🔭 I’m currently working on [NexusCLI](https://github.com/IliyaAG/NexusCLI)
 
@@ -25,15 +26,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iliya-aghchaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iliya-aghchaei" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22898422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22898422" height="30" width="40" /></a>
-<a href="https://instagram.com/shaki_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaki_one" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iliya-aghchaei" target="blank"><img align="center" src="images/logos/linkedin.png" alt="iliya-aghchaei" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22898422" target="blank"><img align="center" src="images/logos/stackoverflow.png" alt="StackOverFlow" height="30" width="40" /></a>
+<a href="https://instagram.com/shaki_one" target="blank"><img align="center" src="images/logos/instagram.png" alt="shaki_one" height="30" width="40" /></a>
 </p>
 </details>
 
-
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h1>🛠️ My Favorite Tools</h1></summary>
 
   <h3>🐧 Operating System</h3>
   <p>
@@ -48,7 +48,7 @@
   </p>
   <h3>☸️ Containerization & Orchestration</h3>
   <p>
-      <a href="#"><img alt="Docker" src="images/logos/docker.png" width="40" height="40"> </a>
+      <a href="https://www.docker.com/"><img alt="Docker" src="images/logos/docker.png" width="40" height="40"> </a>
       <a href="#"><img alt="K8s" src="images/logos/kubernetes.png" width="40" height="40"> </a>
       <a href="#"><img alt="helm" src="images/logos/helm.png" width="40" height="40"> </a>
   </p>
@@ -70,6 +70,7 @@
       <a href="#"><img alt="Mimir" src="images/logos/mimir.png" width="40" height="40"> </a>
       <a href="#"><img alt="Zabbix" src="images/logos/zabbix.png" width="40" height="40"> </a>
       <a href="#"><img alt="Loki" src="images/logos/loki.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Beats" src="images/logos/beats.png" width="40" height="40"> </a>
       <a href="#"><img alt="Elasticsearch" src="images/logos/elastic.png" width="40" height="40"> </a>
       <a href="#"><img alt="Logstash" src="images/logos/logstash.png" width="40" height="40"> </a>
       <a href="#"><img alt="Kibana" src="images/logos/kibana.png" width="40" height="40"> </a>
@@ -88,21 +89,31 @@
       <a href="#"><img alt="Ceph" src="images/logos/ceph.png" width="40" height="40"> </a>
   </p>
   <h3>🗄 Databases</h3>
+      <a href="#"><img alt="MySQL" src="images/logos/mysql.png" width="40" height="40"> </a>
+      <a href="#"><img alt="MariaDB" src="images/logos/mariadb.png" width="40" height="40"> </a>
+      <a href="#"><img alt="MongoDB" src="images/logos/mongo.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Redis" src="images/logos/redis.png" width="40" height="40"> </a>
+      <a href="#"><img alt="MSSQL" src="images/logos/MSSQLserver.png" width="40" height="40"> </a>
+      <a href="#"><img alt="InfluxDB" src="images/logos/influxdb.png" width="40" height="40"> </a>
   <p>
   </p>
   <h3>🧪 Performance & Security Testing</h3>
-
   <p>
+      <a href="#"><img alt="K6" src="images/logos/k6.png" width="40" height="40"> </a>
+      <a href="#"><img alt="apache benchmark" src="images/logos/ab.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Trivy" src="images/logos/trivy.png" width="40" height="40"> </a>
   </p>
   <h3>☁️ Virtualization & Infrastructure</h3>
-
   <p>
+      <a href="#"><img alt="KVM" src="images/logos/kvm.png" width="40" height="40"> </a>
+      <a href="#"><img alt="ESXI" src="images/logos/esxi.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Virtualizor" src="images/logos/virtualizor.png" width="40" height="40"> </a>
   </p>
 
 </details>
 
 <details> 
-  <summary><h2>⚡Github Stats⚡</h2></summary>
+  <summary><h1>⚡Github Stats⚡</h1></summary>
 <br>
 <p align=center>
   <div align=center>
@@ -116,7 +127,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliyaAG&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliyaAG&hide=c%23,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
@@ -137,3 +148,5 @@
 </div>
 </details>
 <br/><br/><br/><br/><br/><br/>
+<hr>
+<p align="left"> <a href="https://github.com/IliyaAG"><img src="https://github-profile-trophy.vercel.app/?username=IliyaAG&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="iliyaAG" /></a> </p>
