@@ -45,6 +45,7 @@
       <a href=https://golang.org/"><img alt="Golang" src="images/logos/golang.png" width="40" height="40" > </a>
       <a href="#"><img alt="git" src="images/logos/git.png" width="40" height="40" > </a>
       <a href="#"><img alt="vim" src="images/logos/vim.png" width="40" height="40" > </a>
+      <a href="#"><img alt="MD" src="images/logos/md.png" width="40" height="40" > </a>
   </p>
   <h3>☸️ Containerization & Orchestration</h3>
   <p>
@@ -91,6 +92,7 @@
   <h3>🗄 Databases</h3>
       <a href="#"><img alt="MySQL" src="images/logos/mysql.png" width="40" height="40"> </a>
       <a href="#"><img alt="MariaDB" src="images/logos/mariadb.png" width="40" height="40"> </a>
+      <a href="#"><img alt="PostgreSQL" src="images/logos/postgresql.png" width="40" height="40"> </a>
       <a href="#"><img alt="MongoDB" src="images/logos/mongodb.png" width="40" height="40"> </a>
       <a href="#"><img alt="Redis" src="images/logos/redis.png" width="40" height="40"> </a>
       <a href="#"><img alt="MSSQL" src="images/logos/MSSQLserver.png" width="40" height="40"> </a>
