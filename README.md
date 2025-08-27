@@ -43,14 +43,14 @@
   <p>
       <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="images/logos/Bash.png" width="40" height="40"> </a>
       <a href=https://golang.org/"><img alt="Golang" src="images/logos/golang.png" width="40" height="40" > </a>
-      <a href="#"><img alt="git" src="images/logos/git.png" width="40" height="40" > </a>
+      <a href="https://git-scm.com/"><img alt="git" src="images/logos/git.png" width="40" height="40" > </a>
       <a href="#"><img alt="vim" src="images/logos/vim.png" width="40" height="40" > </a>
-      <a href="#"><img alt="MD" src="images/logos/md.png" width="40" height="40" > </a>
+      <a href="https://daringfireball.net/projects/markdown/"><img alt="MD" src="images/logos/md.png" width="40" height="40" > </a>
   </p>
   <h3>☸️ Containerization & Orchestration</h3>
   <p>
       <a href="https://www.docker.com/"><img alt="Docker" src="images/logos/docker.png" width="40" height="40"> </a>
-      <a href="#"><img alt="K8s" src="images/logos/kubernetes.png" width="40" height="40"> </a>
+      <a href="https://kubernetes.io/"><img alt="K8s" src="images/logos/kubernetes.png" width="40" height="40"> </a>
       <a href="#"><img alt="helm" src="images/logos/helm.png" width="40" height="40"> </a>
   </p>
   <h3>🔄 CI/CD & DevOps Tools</h3>
@@ -66,7 +66,7 @@
   <h3>📊 Monitoring & Observability</h3>
   <p>
       <a href="#"><img alt="Prometheus" src="images/logos/prometheus.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Grafana" src="images/logos/grafana.png" width="40" height="40"> </a>
+      <a href="https://grafana.com/"><img alt="Grafana" src="images/logos/grafana.png" width="40" height="40"> </a>
       <a href="#"><img alt="Tempo" src="images/logos/tempo.png" width="40" height="40"> </a>
       <a href="#"><img alt="Mimir" src="images/logos/mimir.png" width="40" height="40"> </a>
       <a href="#"><img alt="Zabbix" src="images/logos/zabbix.png" width="40" height="40"> </a>
@@ -74,12 +74,12 @@
       <a href="#"><img alt="Beats" src="images/logos/beats.png" width="40" height="40"> </a>
       <a href="#"><img alt="Elasticsearch" src="images/logos/elastic.png" width="40" height="40"> </a>
       <a href="#"><img alt="Logstash" src="images/logos/logstash.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Kibana" src="images/logos/kibana.png" width="40" height="40"> </a>
+      <a href="https://www.elastic.co/kibana"><img alt="Kibana" src="images/logos/kibana.png" width="40" height="40"> </a>
   </p>
   <h3>🌐 Web Servers, Load Balancers & Services</h3>
   <p>
       <a href="#"><img alt="Apache" src="images/logos/apache.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Nginx" src="images/logos/nginx.png" width="40" height="40"> </a>
+      <a href="https://www.f5.com/go/product/welcome-to-nginx"><img alt="Nginx" src="images/logos/nginx.png" width="40" height="40"> </a>
       <a href="#"><img alt="Traefik" src="images/logos/traefik.png" width="40" height="40"> </a>
       <a href="#"><img alt="HAProxy" src="images/logos/haproxy.png" width="40" height="40"> </a>
       <a href="#"><img alt="Keepalived" src="images/logos/keepalived.png" width="40" height="40"> </a>
@@ -90,11 +90,11 @@
       <a href="#"><img alt="Ceph" src="images/logos/ceph.png" width="40" height="40"> </a>
   </p>
   <h3>🗄 Databases</h3>
-      <a href="#"><img alt="MySQL" src="images/logos/mysql.png" width="40" height="40"> </a>
+      <a href="https://www.mysql.com/"><img alt="MySQL" src="images/logos/mysql.png" width="40" height="40"> </a>
       <a href="#"><img alt="MariaDB" src="images/logos/mariadb.png" width="40" height="40"> </a>
       <a href="#"><img alt="PostgreSQL" src="images/logos/postgresql.png" width="40" height="40"> </a>
-      <a href="#"><img alt="MongoDB" src="images/logos/mongodb.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Redis" src="images/logos/redis.png" width="40" height="40"> </a>
+      <a href="https://www.mongodb.com/"><img alt="MongoDB" src="images/logos/mongodb.png" width="40" height="40"> </a>
+      <a href="https://redis.io/"><img alt="Redis" src="images/logos/redis.png" width="40" height="40"> </a>
       <a href="#"><img alt="MSSQL" src="images/logos/MSSQLserver.png" width="40" height="40"> </a>
       <a href="#"><img alt="InfluxDB" src="images/logos/influxdb.png" width="40" height="40"> </a>
   <p>
@@ -129,7 +129,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliyaAG&hide=c%23,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliyaAG&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
@@ -148,7 +148,13 @@
 <div width="100%" align="center">
   <a align="right" href="https://github.com/IliyaAG/ansible" title="My Ansible Template Files"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=ansible&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/IliyaAG/NexusCLI" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=sample-test&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
 </details>
 <br/><br/><br/><br/><br/><br/>
 <hr>
-<p align="left"> <a href="https://github.com/IliyaAG"><img src="https://github-profile-trophy.vercel.app/?username=IliyaAG&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="iliyaAG" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/IliyaAG"><img src="https://github-profile-trophy.vercel.app/?username=IliyaAG&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="iliyaAG" /></a> </p> -->
