@@ -149,7 +149,7 @@
   <a align="right" href="https://github.com/IliyaAG/ansible" title="My Ansible Template Files"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=ansible&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/IliyaAG/NexusCLI" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=sample-test&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/IliyaAG/sample-test" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=sample-test&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
