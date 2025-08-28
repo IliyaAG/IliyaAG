@@ -67,20 +67,20 @@
   <p>
       <a href="#"><img alt="Prometheus" src="images/logos/prometheus.png" width="40" height="40"> </a>
       <a href="https://grafana.com/"><img alt="Grafana" src="images/logos/grafana.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Tempo" src="images/logos/tempo.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Mimir" src="images/logos/mimir.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Zabbix" src="images/logos/zabbix.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Loki" src="images/logos/loki.png" width="40" height="40"> </a>
+      <a href="https://grafana.com/docs/tempo/latest/"><img alt="Tempo" src="images/logos/tempo.png" width="40" height="40"> </a>
+      <a href="https://grafana.com/docs/mimir/latest/"><img alt="Mimir" src="images/logos/mimir.png" width="40" height="40"> </a>
+      <a href=""><img alt="Zabbix" src="images/logos/zabbix.png" width="40" height="40"> </a>
+      <a href="https://grafana.com/docs/loki/latest/"><img alt="Loki" src="images/logos/loki.png" width="40" height="40"> </a>
       <a href="#"><img alt="Beats" src="images/logos/beats.png" width="40" height="40"> </a>
       <a href="#"><img alt="Elasticsearch" src="images/logos/elastic.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Logstash" src="images/logos/logstash.png" width="40" height="40"> </a>
+      <a href="https://www.elastic.co/logstash"><img alt="Logstash" src="images/logos/logstash.png" width="40" height="40"> </a>
       <a href="https://www.elastic.co/kibana"><img alt="Kibana" src="images/logos/kibana.png" width="40" height="40"> </a>
   </p>
   <h3>🌐 Web Servers, Load Balancers & Services</h3>
   <p>
       <a href="#"><img alt="Apache" src="images/logos/apache.png" width="40" height="40"> </a>
       <a href="https://www.f5.com/go/product/welcome-to-nginx"><img alt="Nginx" src="images/logos/nginx.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Traefik" src="images/logos/traefik.png" width="40" height="40"> </a>
+      <a href="https://traefik.io/traefik"><img alt="Traefik" src="images/logos/traefik.png" width="40" height="40"> </a>
       <a href="#"><img alt="HAProxy" src="images/logos/haproxy.png" width="40" height="40"> </a>
       <a href="#"><img alt="Keepalived" src="images/logos/keepalived.png" width="40" height="40"> </a>
   </p>
