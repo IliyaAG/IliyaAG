@@ -103,13 +103,13 @@
   <p>
       <a href="#"><img alt="K6" src="images/logos/k6.png" width="40" height="40"> </a>
       <a href="#"><img alt="apache benchmark" src="images/logos/ab.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Trivy" src="images/logos/trivy.png" width="40" height="40"> </a>
+      <a href="https://trivy.dev/latest/"><img alt="Trivy" src="images/logos/trivy.png" width="40" height="40"> </a>
   </p>
   <h3>☁️ Virtualization & Infrastructure</h3>
   <p>
-      <a href="#"><img alt="KVM" src="images/logos/kvm.png" width="40" height="40"> </a>
+      <a href="https://linux-kvm.org/page/Main_Page"><img alt="KVM" src="images/logos/kvm.png" width="40" height="40"> </a>
       <a href="#"><img alt="ESXI" src="images/logos/esxi.png" width="40" height="40"> </a>
-      <a href="#"><img alt="Virtualizor" src="images/logos/virtualizor.png" width="40" height="40"> </a>
+      <a href="https://www.virtualizor.com/"><img alt="Virtualizor" src="images/logos/virtualizor.png" width="40" height="40"> </a>
   </p>
 
 </details>
