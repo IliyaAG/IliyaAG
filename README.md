@@ -151,8 +151,12 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/IliyaAG/sample-test" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=sample-test&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/IliyaAG/Iliya-360-Feedback-Loop" title="360 feedback loop about me"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=Iliya-360-Feedback-Loop&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/IliyaAG/sample-test" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=sample-test&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
 </details>
 <br/><br/><br/><br/><br/><br/>
