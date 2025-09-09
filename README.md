@@ -43,6 +43,8 @@
   <p>
       <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="images/logos/Bash.png" width="40" height="40"> </a>
       <a href=https://golang.org/"><img alt="Golang" src="images/logos/golang.png" width="40" height="40" > </a>
+      <a href=https://gohugo.io/"><img alt="HUGO" src="images/logos/hugo.png" width="40" height="40" > </a>
+      <a href=https://gin-gonic.com/"><img alt="gin" src="images/logos/gin.png" width="40" height="40" > </a>
       <a href="https://git-scm.com/"><img alt="git" src="images/logos/git.png" width="40" height="40" > </a>
       <a href="#"><img alt="vim" src="images/logos/vim.png" width="40" height="40" > </a>
       <a href="https://daringfireball.net/projects/markdown/"><img alt="MD" src="images/logos/md.png" width="40" height="40" > </a>
@@ -140,25 +142,35 @@
 <hr>
 
 <h2 align="center">💻 Repositories 💻</h2>
+
+
+
+
+
+
+
+
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/IliyaAG/NexusCLI" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=NexusCLI&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/IliyaAG/NexusCLI" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=NexusCLI&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/IliyaAG/NexusCLI" title="Command line interface for sonatype nexus repository"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=NexusCLI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/IliyaAG/ansible" title="My Ansible Template Files"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=ansible&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/IliyaAG/Iliya-360-Feedback-Loop
+" title="Valuable feedback from colleagues and acquaintances about me"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=Iliya-360-Feedback-Loop&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/IliyaAG/sample-test" title="My sample web applicatin tests"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=sample-test&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/IliyaAG/sample-test" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=sample-test&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/IliyaAG/Ansible" title="my ansible template files"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=Ansible&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/IliyaAG/IliyaAG" title=""><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=IliyaAG&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/IliyaAG/Iliya-360-Feedback-Loop" title="360 feedback loop about me"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=Iliya-360-Feedback-Loop&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/IliyaAG/sample-test" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=sample-test&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+<br/><br/><br/><br/><br/><br/>
 
-</details>
-<br/><br/><br/><br/><br/><br/>
+<h4 align="center">
+  <a href="https://github.com/IliyaAG?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 <hr>
-<!--<p align="left"> <a href="https://github.com/IliyaAG"><img src="https://github-profile-trophy.vercel.app/?username=IliyaAG&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="iliyaAG" /></a> </p> -->
+
+<p align="left"> <a href="https://github.com/IliyaAG"><img src="https://github-profile-trophy.vercel.app/?username=IliyaAG&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="iliyaAG" /></a> </p> 
