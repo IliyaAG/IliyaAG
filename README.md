@@ -44,7 +44,7 @@
       <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="images/logos/Bash.png" width="40" height="40"> </a>
       <a href=https://golang.org/"><img alt="Golang" src="images/logos/golang.png" width="40" height="40" > </a>
       <a href=https://gohugo.io/"><img alt="HUGO" src="images/logos/hugo.png" width="40" height="40" > </a>
-      <a href=https://gin-gonic.com/"><img alt="gin" src="images/logos/gin.png" width="40" height="40" > </a>
+      <a href=https://gin-gonic.com/"><img alt="gin" src="images/logos/gin.png" width="35" height="40" > </a>
       <a href="https://git-scm.com/"><img alt="git" src="images/logos/git.png" width="40" height="40" > </a>
       <a href="#"><img alt="vim" src="images/logos/vim.png" width="40" height="40" > </a>
       <a href="https://daringfireball.net/projects/markdown/"><img alt="MD" src="images/logos/md.png" width="40" height="40" > </a>
@@ -142,17 +142,9 @@
 <hr>
 
 <h2 align="center">💻 Repositories 💻</h2>
-
-
-
-
-
-
-
-
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/IliyaAG/NexusCLI" title="NexusCLI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=NexusCLI&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/IliyaAG/NexusCLI" title="Command line interface for sonatype nexus repository"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=NexusCLI&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/IliyaAG/cdktf-libvirt-go" title="my cdk template for libvirt provider in go"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=cdktf-libvirt-go&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/IliyaAG/NexusCLI" title="Command line interface for sonatype nexus repository"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IliyaAG&repo=NexusCLI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
