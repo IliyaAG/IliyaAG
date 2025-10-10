@@ -78,6 +78,7 @@
       <a href="https://www.elastic.co/logstash"><img alt="Logstash" src="images/logos/logstash.png" width="40" height="40"> </a>
       <a href="https://www.elastic.co/kibana"><img alt="Kibana" src="images/logos/kibana.png" width="40" height="40"> </a>
       <a href="https://uptimekuma.org/"><img alt="Uptime kuma" src="images/logos/uptime-kuma.png" width="40" height="40"> </a>
+      <a href=""><img alt="Thanos" src="images/logos/thanos.png" width="40" height="40"> </a>
   </p>
   <h3>🌐 Web Servers, Load Balancers & Services</h3>
   <p>
