@@ -101,6 +101,7 @@
       <a href="https://redis.io/"><img alt="Redis" src="images/logos/redis.png" width="40" height="40"> </a>
       <a href="#"><img alt="MSSQL" src="images/logos/MSSQLserver.png" width="40" height="40"> </a>
       <a href="#"><img alt="InfluxDB" src="images/logos/influxdb.png" width="40" height="40"> </a>
+      <a href="#"><img alt="Clickhouse" src="images/logos/clickhouse.png" width="40" height="40"> </a>
   <p>
   </p>
   <h3>🧪 Performance & Security Testing</h3>
